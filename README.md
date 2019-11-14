@@ -1,1 +1,2 @@
-# something is going on here
+# python-project
+something is going on :) 
